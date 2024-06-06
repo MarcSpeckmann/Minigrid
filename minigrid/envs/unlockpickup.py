@@ -53,7 +53,7 @@ class UnlockPickupEnv(RoomGrid):
 
     ## Registered Configurations
 
-    - `MiniGrid-UnlockPickup-v0`
+    - `MiniGrid-Unlock-v0`
 
     """
 
